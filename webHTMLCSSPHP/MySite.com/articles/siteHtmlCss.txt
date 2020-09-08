@@ -1,0 +1,2 @@
+<p text-align="center">Простой сайт на HTML  .
+<p class="paragraph">HTML, CSS, PHP, MySQL, LS, Java.

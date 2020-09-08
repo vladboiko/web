@@ -1,0 +1,1 @@
+	<div class = "block2"><?php echo "Block 2";?></div>

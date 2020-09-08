@@ -1,0 +1,14 @@
+<h3><p>Мои ошибки	</h3>
+<ul>
+	<li>1. How I served in the army.</li>
+<li> 2. How I studied in the university.</li>
+<li> 3. How I search myself after graduate university.</li>
+<li> 4. How I worked in company.</li>
+<li> 5. How I have got married.</li>
+<li> 6. How I made money.</li>
+<li> 7. How I raised children.</li>
+<li> 8. How I search job.</li>
+<li> 9. How I lost friends.</li>
+<li> 10. How I lost family.</li>
+<li> 11. How I took out a loan.</li>
+</ul>

@@ -1,0 +1,65 @@
+#header{
+	width:100%;
+	height:100px;
+
+}
+
+#body{
+	background:url(images/background_snow.jpg);
+}
+
+#content{
+	margin-top:40px;
+	width:100%;
+	height:910px;
+
+	
+}
+
+#left{
+	width:30%;
+	height: 900px;
+	float:left;
+}
+
+#center{
+	width:40%;
+	height:900px;
+	float:left;
+
+}
+
+#motto_top{
+	color:red;
+	margin-top:150px;
+	text-align:center;
+	
+}
+#motto_bottom{
+	text-align:center;
+	color:blue;
+	
+}
+
+#img_graf{
+/*	margin-top:200px;*/
+	text-align:center;
+}
+
+#right{
+	width:26%;
+	height:900px;
+	float:left;*/
+}
+
+#footer{
+	width:100%;
+	height:20px;
+	text-align:center;
+
+}
+
+.clear{
+	clear:both;
+	
+}

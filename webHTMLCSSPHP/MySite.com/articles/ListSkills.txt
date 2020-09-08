@@ -1,0 +1,13 @@
+<p>Мои навыки
+<ul>
+<li> My experience it is my Mistakes and vise versa.
+<li>	1. List my mistake and not only.
+<li> My skills.
+<li>	1. Programming
+<li>	2. Engineer electronic.
+<li>	3. English
+<li>	4. DIY with microcontrollers.
+<li> My Job.
+<li>	1. My experience from studied in BGUIR to current job.
+
+</ul>

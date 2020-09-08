@@ -1,0 +1,1 @@
+<footer>&copy MINSK 2019</footer>

@@ -1,0 +1,1 @@
+<footer class = "footer">Minsk 2019 &copy </footer>
